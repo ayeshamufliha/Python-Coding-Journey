@@ -1,2 +1,14 @@
-# Python-Coding-Journey
-A collection of Python programs created as part of my academic coursework and practice sessions. This repository includes basic concepts, object-oriented programming, file handling, data structures, and mini projects.
+Welcome to my Python repository.
+
+This repository contains:
+
+- Basic Python programs
+- Conditional statements
+- Loops
+- Functions
+- Object-oriented programming (OOP)
+- File handling
+- Mini projects
+
+Author: Ayesha Mufliha Banu S
+Department: B.E. CSE (Cybersecurity)
